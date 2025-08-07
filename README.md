@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Bharat Daksh
 
-<!--
-**bharatdaksh1234/bharatdaksh1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (2nd Year) at GLA University, Mathura  
+💻 Passionate about software development, problem-solving, and new technologies  
+🌱 Currently learning: Data Structures, Web Development, Java, Python  
+🔧 Languages: C, C++, Java, Python, HTML, CSS, JavaScript  
+📫 Email: bharat.daksh_cs24@gla.ac.in  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- Programming: `C`, `C++`, `Java`, `Python`
+- Web: `HTML`, `CSS`, `JavaScript`, `Bootstrap`
+- Tools: `Git`, `GitHub`, `VS Code`
+
+---
+
+## 📊 GitHub Stats
+
+![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharat-daksh&show_icons=true&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+
+- 🔗 [Portfolio Website](#) — Coming Soon
+- 🔗 [C++ Projects](#)
+- 🔗 [Java Mini Projects](#)
+
+---
+
+> “Code, Learn, Build, Repeat.” 🔁
